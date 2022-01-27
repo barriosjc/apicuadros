@@ -9,5 +9,7 @@
 
 ## Notas
 
-php artisa migrate
-php artisan db:seed
+<p>crar ddbb : museo</p>
+<p>php artisa migrate</p>
+<p>[s](url)php artisan db:seed</p>
+
