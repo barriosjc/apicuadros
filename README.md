@@ -11,5 +11,5 @@
 
 <p>crar ddbb : museo</p>
 <p>php artisa migrate</p>
-<p>[s](url)php artisan db:seed</p>
+<p>php artisan db:seed</p>
 
